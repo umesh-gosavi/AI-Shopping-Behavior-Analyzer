@@ -1,6 +1,7 @@
 ## 🛒 AI Shopping Behavior Analyzer
 
 ### 💡 About
+
 How does Amazon know what you want to buy next?
 How does Flipkart show you the perfect product?
 
@@ -12,6 +13,7 @@ patterns, and generates complete business insights —
 exactly like real e-commerce companies do!
 
 ### 🛠️ Technologies Used
+
 - Python 3.12
 - Pandas — Data Processing & Analysis
 - SQLite — Database Storage & SQL Queries
@@ -20,6 +22,7 @@ exactly like real e-commerce companies do!
 - Seaborn — Advanced Data Visualization
 
 ### 📁 Dataset Used
+
 | File | Contains |
 |------|----------|
 | customers.csv | 10 customers — age, city, gender |
@@ -27,6 +30,7 @@ exactly like real e-commerce companies do!
 | transactions.csv | 25 transactions — orders, ratings, dates |
 
 ### ⚙️ How it Works
+
 1. 📂 Loaded raw data from 3 CSV files
 2. 🗄️ Stored data in SQLite database
 3. 🔍 Analyzed revenue & patterns using SQL queries
@@ -34,6 +38,7 @@ exactly like real e-commerce companies do!
 5. 📊 Visualized business insights using charts
 
 ### 📊 Business Insights Generated
+
 | Metric | Result |
 |--------|--------|
 | 💰 Total Revenue | Rs. 5,06,564 |
@@ -43,6 +48,7 @@ exactly like real e-commerce companies do!
 | 🏙️ Top City | Pune & Mumbai |
 
 ### 🤖 AI Model Performance
+
 - Algorithm: Random Forest Classifier
 - Accuracy: 80%
 - Task: Predicting High-Value Customers
@@ -54,16 +60,23 @@ exactly like real e-commerce companies do!
 💰 Total Revenue: Rs. 5,06,564
 
 📊 Category-wise Revenue:
+
 Electronics: 7 orders | Rs. 3,86,993
+
 Furniture: 3 orders | Rs. 70,997
+
 Fashion: 7 orders | Rs. 40,489
 
 👑 Top Customer: Rahul Sharma | Rs. 1,28,997
+
 🤖 AI Model Accuracy: 80.0%
+
 👑 High Value Customers Identified!
+
 🎉 Analysis Complete!
 
 ### 📈 Visual Insights
+
 ![Category Revenue](category_revenue.png)
 ![Monthly Revenue](category_revenue.png)
 ![City Distribution](city_distribution.png)
