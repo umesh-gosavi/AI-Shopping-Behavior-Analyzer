@@ -78,7 +78,7 @@ Fashion: 7 orders | Rs. 40,489
 ### 📈 Visual Insights
 
 ![Category Revenue](category_revenue.png)
-![Monthly Revenue](category_revenue.png)
+![Monthly Revenue](monthly_revenue.png)
 ![City Distribution](city_distribution.png)
 
 ### 🚀 How to Run
